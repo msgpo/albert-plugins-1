@@ -9,7 +9,7 @@ __prettyname__ = "Bluetooth Manager"
 __version__ = "0.1"
 __trigger__ = "bt"
 __author__ = "Simon Krekels"
-__dependencies__ = ["rfkill"]
+__dependencies__ = ["rfkill","blueman-manager"]
 
 if which("rfkill") is None:
     raise Exception("'rfkill' not found in $PATH.")
