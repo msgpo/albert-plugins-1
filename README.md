@@ -1,5 +1,5 @@
 # albert-plugins
-This repo contains some plugins for the albert launcher to make my life easier. Modules must be placed in `~/.local/share/albert/org.albert.extension.python/modules/`
+Some plugins for the albert launcher to make my life easier. Modules must be placed in `~/.local/share/albert/org.albert.extension.python/modules/`
 
 ## pmtoggle
 This is a simple toggle for xfce4's presentation mode. Requires the `pmtoggle` script to be in the $PATH. (place `pmtoggle` in `~/.local/bin/`)
