@@ -1,0 +1,10 @@
+#!/bin/bash
+# Toggle presentation mode in xfce4
+
+var=$(xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/presentation-mode)
+
+if [ "$var" == "true" ]; then
+    xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/presentation-mode -s false
+else
+    xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/presentation-mode -s true
+fi
