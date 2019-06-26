@@ -7,5 +7,8 @@ This is a simple toggle for xfce4's presentation mode. Requires the `pmtoggle` s
 ## btswitch
 A simple bluetooth on-off toggle. Can also launch `blueman-manager` if installed.
 
+## downloads
+Opens `~/Downloads` folder. Mainly written to test out completion and underline. 
+
 ## pasink
 Module to easily change the default PulseAudio sink. Does *not* switch audio streams to selected sink.
