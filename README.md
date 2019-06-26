@@ -8,4 +8,4 @@ This is a simple toggle for xfce4's presentation mode. Requires the `pmtoggle` s
 A simple bluetooth on-off toggle. Can also launch `blueman-manager` if installed.
 
 ## pasink
-Modile to easily change the default PulseAudio sink. Does *not* switch audio streams to selected sink.
+Module to easily change the default PulseAudio sink. Does *not* switch audio streams to selected sink.
