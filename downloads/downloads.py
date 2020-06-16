@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""This is a simple trash extension providing a single item which opens the systems virtual trash \
+"""This is a simple trash extension providing a single item which opens the systems downloads \
 location in your default file manager on activation."""
 
 import re
