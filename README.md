@@ -14,4 +14,4 @@ Opens `~/Downloads` folder. Mainly written to test out completion and underline.
 Module to easily change the default PulseAudio sink. Does *not* switch audio streams to selected sink.
 
 ## buienradar
-A simple module to activate my buienradar (weather radar) script.
+A simple module to activate my buienradar (weather radar) script. See [Buienradar](https://github.com/simonkrekels/Buienradar).
